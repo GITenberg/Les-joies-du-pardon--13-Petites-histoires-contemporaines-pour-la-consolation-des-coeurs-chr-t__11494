@@ -1,5 +1,8 @@
 _repo: Les-joies-du-pardon--13-Petites-histoires-contemporaines-pour-la-consolation-des-coeurs-chr-t__11494
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 11494-h/cover.png
 creator:
   author:
     agent_name: Anonymous
@@ -10,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11494#Les-joies-du-pardon--13-Petites-histoires-contemporaines-pour-la-consolation-des-coeurs-chr-t_
 gutenberg_bookshelf: FR Philosophie, Religion et Morale
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
